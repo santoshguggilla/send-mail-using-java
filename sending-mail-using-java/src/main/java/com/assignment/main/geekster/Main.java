@@ -1,4 +1,4 @@
-package org.geekster;
+package com.assignment.main.geekster;
 
 public class Main {
 

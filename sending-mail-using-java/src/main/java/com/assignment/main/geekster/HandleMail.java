@@ -1,4 +1,4 @@
-package org.geekster;
+package com.assignment.main.geekster;
 
 import javax.mail.*;
 import javax.mail.internet.InternetAddress;
